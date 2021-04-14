@@ -1,0 +1,61 @@
+
+a {
+	color : red;
+	font-size: 13px;
+}
+
+div {
+	color:#07c3f7
+}
+
+#ssilka {
+	color: lime;
+}
+
+#test_ssilka {
+	font-size: 20px;
+	color: #8737FF;
+}
+
+.human {
+	color: blue;
+}
+
+.animal {
+	color: red;
+}
+
+.lion {
+	color: pink;
+}
+
+.monkey {
+	color: purple;
+}
+
+.fish {
+	color: #ff6f0f;
+}
+
+.message {
+	color: #ff0ff7;
+	background-color: #dbff0f;
+	border: 1px solid #67ff0f;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-right: 50px;
+	margin-bottom: 15px;
+	padding: 15px;
+}
+
+.success {
+	background-color: #6803ff;
+	color: #ffb803;
+	
+}
+
+.fail {
+	background-color: #ff0303;
+	color: #0703ff;
+	
+}
